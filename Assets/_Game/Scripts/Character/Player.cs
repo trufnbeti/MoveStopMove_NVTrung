@@ -18,9 +18,8 @@ public class Player : Character
 			if (Vector3.Distance(direct, Vector3.zero) > 0) {
 				transform.forward = direct;
 					ChangeAnim(Anim.run);
-			} else {
+			} else if (!isAttack){
 				ChangeState(IdleState);
-				ChangeAnim(Anim.idle);
 			}
 
 			// CanMove(nextPos);
@@ -33,7 +32,8 @@ public class Player : Character
 		}
 	}
 	
-	private void Update() {
+	protected override void Update() {
+		base.Update();
 		Move();
 	}
 }

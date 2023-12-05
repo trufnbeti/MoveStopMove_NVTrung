@@ -1,8 +1,9 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character : ColorObject
+public class Character : GameUnit
 {
     
     [SerializeField] protected Transform characterModel;
@@ -12,6 +13,7 @@ public class Character : ColorObject
 
     [SerializeField] private Character currentTarget;
     [HideInInspector] public Character currentAttacker;
+    public Transform throwPoint;
     private List<Character> targets = new List<Character>();
     private Vector3 targetDirection;
 
@@ -23,13 +25,13 @@ public class Character : ColorObject
     protected AttackState AttackState = new();
     private IState currentState;
 
-    private bool isAttack = false;
+    protected bool isAttack = false;
     private float timeToResetAttack = Constant.TIME_TO_RESET_ATTACK;
     
     public override void OnInit() {
-        base.OnInit();
+        targets.Clear();
         characterModel.rotation = Quaternion.identity;
-        ChangeAnim(Anim.idle);
+        ChangeState(IdleState);
     }
     
     public void OnHit() {
@@ -119,6 +121,20 @@ public class Character : ColorObject
         if (currentState != null)
         {
             currentState.OnEnter(this);
+        }
+    }
+
+    public virtual void Move() { }
+
+    protected virtual void Update()
+    {
+        //Pause before hit play
+        if (GameManager.Ins.IsState(GameState.GamePlay))
+        {
+            if (currentState != null)
+            {
+                currentState.OnExecute(this);
+            }
         }
     }
 }
