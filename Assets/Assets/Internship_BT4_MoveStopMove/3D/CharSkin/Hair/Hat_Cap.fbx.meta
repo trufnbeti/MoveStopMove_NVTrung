@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: 631dc824c667e2141af72f923cc34829
+guid: 72e9b270471e48a479051d3b196a7e06
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface1173SG
+    second: {fileID: 2100000, guid: d66728c3c66a20045bce1d9f88bf67c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface1173SG1
+    second: {fileID: 2100000, guid: d66728c3c66a20045bce1d9f88bf67c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface1173SG2
+    second: {fileID: 2100000, guid: d66728c3c66a20045bce1d9f88bf67c8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -35,14 +50,14 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 3
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -62,11 +77,11 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 3
-    normalCalculationMode: 4
+    tangentImportMode: 2
+    normalCalculationMode: 1
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
+    normalSmoothingSource: 3
   referencedClips: []
   importAnimation: 1
   copyAvatar: 0

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cf9df6b-c8d3-4798-ba68-0a01b39e6033" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/URP_Multicolor_Material/URP_multicolor_mat Blur.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/URP_Multicolor_Material/URP_multicolor_mat Blur.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/URP_Multicolor_Material/URP_multicolor_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/URP_Multicolor_Material/URP_multicolor_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_grey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_grey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_orange.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_orange.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_pink.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_pink.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_white.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cube_mat_white.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cubeworld_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/cubeworld_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/grass_texture.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Cube_World/_Materials/grass_texture.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/cube_world_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/cube_world_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_boy_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_boy_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_girl_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_girl_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_blowpipe_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_blowpipe_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_canibal_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_canibal_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_plant_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_plant_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_spear_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Jungle_Cube/Materials/jungle_monster_spear_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Bitgem/Tavern_Cube/Materials/Cube_World_Tavern_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Bitgem/Tavern_Cube/Materials/Cube_World_Tavern_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Arrow.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Arrow.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Arrow.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Arrow.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Crown.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Crown.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Ear.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Ear.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Ear.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Ear.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat_Cap.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat_Cap.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat_Cap.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Hat_Cap.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Horn.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Horn.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Horn.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Horn.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Rau.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Rau.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Rau.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/CharSkin/Hair/Rau.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/Skin/Hammer_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/3D/Skin/Hammer_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/Animator/Ani_CharOptimize.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Internship_BT4_MoveStopMove/Animator/Ani_CharOptimize.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/ScriptableObjects/Weapon/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/Character/Bot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/Utils/CacheComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/Utils/Constant.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YvshhvTc95l0lsgEEVmSAtnVor" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\trung\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\trung\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.31f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;D:\Unity project\MoveStopMove_Trung&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Unity project\MoveStopMove_Trung" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.31f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;D:\Unity project\MoveStopMove_Trung&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Unity project\MoveStopMove_Trung" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf9df6b-c8d3-4798-ba68-0a01b39e6033" name="Changes" comment="" />
+      <created>1701417508800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701417508800</updated>
+      <workItem from="1701417509900" duration="596000" />
+      <workItem from="1701665150083" duration="1414000" />
+      <workItem from="1701673134113" duration="420000" />
+      <workItem from="1701701120866" duration="2089000" />
+      <workItem from="1701743249196" duration="12175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
